@@ -20,7 +20,7 @@ print(1, 2, 6, 'Hello', sep='-')
 print(1, 2, 6, 'Hello', sep='-t-')
 
 # Data Types
-# number of student, name, the money, yes or no
+# number of student, name, the money, yes or no dgfdlj dhslndsljfjsnjdhsds
 
 # number
 # integer
@@ -40,3 +40,6 @@ print(1, 2, 6, 'Hello', sep='-t-')
 print(type(56))
 print(type(-2.0))
 print(type('-2.0'))
+
+
+input("Enter your age: ")
