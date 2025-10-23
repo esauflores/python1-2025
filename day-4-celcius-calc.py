@@ -10,7 +10,7 @@ def fahrenheit2celcius(fahrenheit: float) -> float:
 
 if __name__ == "__main__":
     print("What do you want to do? - input a number")
-    print("1. Celcius to ahrenheit")
+    print("1. Celcius to Fahrenheit")
     print("2. Fahrenheit to Celcius")
 
     good_choice = False
